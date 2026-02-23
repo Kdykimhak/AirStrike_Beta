@@ -13,7 +13,7 @@ A fun and fast-paced arcade game where you control your plane and shoot the enem
 ## ▶️ Gameplay Video
 
 Watch the gameplay on YouTube:  
-👉  Link : https://www.youtube.com/watch?v=OYAcJfz9wiY
+👉  Link : https://youtu.be/ss6C0lEhyog
 
 ---
 
@@ -32,6 +32,11 @@ Watch the gameplay on YouTube:
 You can download the **alpha build** from the **Releases** section of this repository.
 
 ---
+## AI Usage : 
+1. Use to generate the script that cause error
+2. Enemy speed calculation
+3. Player to can not play until clicking start the game
+
 
 ## 🛠️ How to Play
 
