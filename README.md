@@ -46,3 +46,12 @@ You can download the **alpha build** from the **Releases** section of this repos
 
 
 "# AirStrike_Beta" 
+
+
+####Survey of Beta Version
+<img width="770" height="368" alt="email" src="https://github.com/user-attachments/assets/538f7980-9e31-4893-b46a-6dadd8c962da" />
+<img width="764" height="675" alt="mac" src="https://github.com/user-attachments/assets/f667e17a-57e2-419f-b2ad-fa9b86c2de0c" />
+<img width="769" height="495" alt="bugs" src="https://github.com/user-attachments/assets/e956c0ad-15a6-4bdc-8e70-35d23f9ee589" />
+<img width="767" height="751" alt="like" src="https://github.com/user-attachments/assets/df21fe14-f9b0-4f39-81d9-fa8d1a6f029d" />
+<img width="766" height="724" alt="improve" src="https://github.com/user-attachments/assets/5064246b-f014-4944-a6f6-f87c2cf22701" />
+
