@@ -49,6 +49,8 @@ You can download the **alpha build** from the **Releases** section of this repos
 
 
 ####Survey of Beta Version
+
+
 <img width="770" height="368" alt="email" src="https://github.com/user-attachments/assets/538f7980-9e31-4893-b46a-6dadd8c962da" />
 <img width="764" height="675" alt="mac" src="https://github.com/user-attachments/assets/f667e17a-57e2-419f-b2ad-fa9b86c2de0c" />
 <img width="769" height="495" alt="bugs" src="https://github.com/user-attachments/assets/e956c0ad-15a6-4bdc-8e70-35d23f9ee589" />
