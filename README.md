@@ -35,7 +35,7 @@ You can download the **alpha build** from the **Releases** section of this repos
 ## AI Usage : 
 1. Use to generate the script that cause error
 2. Enemy speed calculation
-3. Player to can not play until clicking start the game
+
 
 
 ## 🛠️ How to Play
